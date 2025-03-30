@@ -41,3 +41,4 @@ pip-delete-this-directory.txt
 
 # Large file
 datasets/rating.csv
+datasets/mnist_train.csv
